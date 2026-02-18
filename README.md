@@ -1,32 +1,57 @@
-## Hey there! 👋
+<h1 align="center">Hi 👋, I'm Mridul Shukla</h1>
+<h3 align="center">Backend Developer | AI Enthusiast | System Design Learner</h3>
 
-I'm Mridul Shukla — a backend-focused software developer from India 🇮🇳
+---
 
-I build scalable backend systems, secure APIs, and AI-powered automation tools.
+I'm a Computer Science student passionate about building scalable backend systems, secure APIs, and AI-powered automation tools.
 
-If there’s a real-world problem, I enjoy designing the architecture and engineering a production-ready solution for it.
+I enjoy designing clean architectures, optimizing database performance, and solving real-world engineering problems.
 
-My core tech stack includes NestJS, Node.js, PostgreSQL, Spring Boot (basic), and AWS.  
-I also work with Machine Learning models using Python and Scikit-learn.
+---
 
-I've built enterprise-style systems involving:
-- Role-based JWT authentication (RBAC)
-- Microservices architecture
-- Cloud deployment (AWS EC2)
-- SQL performance tuning
-- AI-driven automation pipelines
+## 🚀 What I Work With
 
-Some of my favorite work includes:
-• AI Chat Reply Bot (LLM-powered contextual response system)  
-• Doctor Appointment Scheduling API (stream & wave logic)  
-• Barcode Scanner Web App (3rd-party API integrations)  
-• Financial transaction processing system (Kafka-based architecture)
+💻 **Backend:** NestJS, Node.js, Spring Boot  
+🗄 **Databases:** PostgreSQL, MongoDB, Redis  
+☁️ **Cloud & DevOps:** AWS EC2, Docker, CI/CD  
+🤖 **AI/ML:** Python, Scikit-learn, OpenAI APIs  
+🔐 **Security:** JWT, RBAC, Google OAuth  
 
-If you're interested in backend engineering, scalable systems, or AI integrations — you’re in the right place.
+---
 
-Fun Facts:
-• I enjoy designing clean backend architectures
-• I like turning manual workflows into automated systems
-• Interested in Distributed Systems & AI Agents
-• Always learning something new 🚀
+## 🏗 What I’ve Built
 
+- 🔹 Enterprise-grade REST APIs & Microservices  
+- 🔹 Role-based Authentication Systems (JWT + OAuth)  
+- 🔹 Doctor Appointment Scheduling API (Stream & Wave Logic)  
+- 🔹 AI Chat Reply Bot using LLMs  
+- 🔹 Barcode Scanner Web App with 3rd-party API integration  
+- 🔹 Financial transaction processing system (Kafka-based architecture)  
+
+---
+
+## 🎯 Current Focus
+
+- Distributed Systems  
+- High-performance backend design  
+- AI integrations in real-world applications  
+- Writing cleaner, more maintainable code  
+
+---
+
+## 📈 GitHub Stats
+
+![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+📧 shuklamridul29@gmail.com  
+🔗 LinkedIn: linkedin.com/in/mridul-shukla  
+
+---
+
+⭐ I believe in building systems that are scalable, secure, and production-ready.
